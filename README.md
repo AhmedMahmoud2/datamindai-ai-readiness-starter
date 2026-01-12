@@ -1,6 +1,21 @@
 # DataMindAI — AI Readiness Starter Kit  
 *(Databricks + VS Code)*
 
+> 📺 **Video Walkthroughs**
+>
+> This repository is part of the **AI Readiness for the Enterprise** video series.
+> Each notebook maps directly to a video explaining the *why* behind the code.
+>
+> ▶️ Watch the full series on YouTube:  
+> https://www.youtube.com/playlist?list=PLsL9JQ2lLNZIQmqi_5KHs01-vd8np_pDD
+>
+> 💡 If you find this repository useful, **subscribe** for upcoming deep dives on:
+> - AI-ready data architectures
+> - Databricks & Fabric patterns
+> - RAG & agentic systems
+> - Governance-first AI design
+
+
 ---
 
 ## 🚀 What This Repository Is
