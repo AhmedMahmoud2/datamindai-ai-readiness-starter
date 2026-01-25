@@ -5,6 +5,35 @@
 >
 > This repository is part of the **AI Readiness for the Enterprise** video series.
 > Each notebook maps directly to a video explaining the *why* behind the code.
+
+## 🎥 AI Readiness Demo Walkthrough
+
+This repository is demonstrated step-by-step in the following video series:
+
+### ▶️ Start Here
+AI-Ready Data: GitHub Starter Kit Walkthrough  
+https://youtu.be/kEshN_iTw04
+
+### Pillar #1 — Trust (Data Quality)
+Introduction  
+https://youtu.be/nmReNhNP6-8
+
+Code (Great Expectations)  
+https://youtu.be/SrgSQw_nrJw
+
+### Pillar #2 — Control (Governance & Security)
+Introduction  
+https://youtu.be/PdUiiYfnD-g
+
+Code (Access Control & Audit)  
+https://youtu.be/0YVbapYl6OI
+
+### Pillar #3 — Context (Semantics & Metadata)
+https://youtu.be/TJqDjZCPAbo
+
+### Pillar #4 — Feedback (Closed-Loop Learning)
+https://youtu.be/9ParM_ZVN6I
+
 >
 > ▶️ Watch the full series on YouTube:  
 > https://www.youtube.com/playlist?list=PLsL9JQ2lLNZIQmqi_5KHs01-vd8np_pDD
